@@ -1,1162 +1,3239 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
-<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
- 
-    <title>Extended home</title>
-  </head>
-  <body>
-    <div class="row">
-      <div class="column" style="background-color:rgb(254, 255, 255);">
-        <h2 class="compname">EXTENDED <br> HOME</h2>
-        
-      </div>
-      <div class="column1" style="background-color:rgb(255, 255, 255);">
-        <img class="image1" src="images/email.svg" alt="">
-        <h6 class="email">Email us</h6>
-        <h6 class="email1">-----------------</h6>
-        <h6 class="email2">xyz@gmail.com</h6>
-      </div>
-      <div class="column2" style="background-color:rgb(255, 255, 255);">
-        <img class="imag1" src="images/call.png" alt="">
-        <h6 class="emai">Call us</h6>
-        <h6 class="emai1">-----------------</h6>
-        <h6 class="emai2">+91-9876543219</h6>
-      </div>
-    </div>
-       <nav class="navbar sticky-top navbar-expand-lg navbar-light " style="background-color: #47939A;">
-       
-        <button class="navbar-toggler bg-light" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-        </button>
-      
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link " href="#">Home <span class="sr-only">(current)</span></a>
-              <li class="nav-item ">
-                <a class="nav-link " href="#whyus">Why us</a>
-                  <li class="nav-item ">
-                    <a class="nav-link " href="#testimonials">Testimonials</a>
-                <li class="nav-item ">
-                  <a class="nav-link " href="#gallery">Gallery</a>
-                  <li class="nav-item ">
-                    <a class="nav-link " href="#about">About us</a>
-              </ul>
-        </div>
-      </nav>
-  <!-- HOME -->
-      <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li> -->
-          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="1"></li> -->
-        </ol>
-        <div id="carouselExample" class="carousel-inner">
-          <div class="carousel-item active">
-            <div class="home">
-              <img class="homeimg" src="images/thought-catalog-Nv-vx3kUR2A-unsplash.jpg" alt="">
-              <div class="header">
-              
-              <form class="for" action="">
-                
-                <input class="in" type="search" placeholder="Enter Location">
-                <i id="fa1" class="fa fa-search"></i>
-              </form>
-              <h1 class="h">
-                <span>There</span>
-                <span>are</span>
-                <span>no</span>
-                <span>limits</span>
-                <span>to</span>
-                <span>what</span>
-                <span>you</span>
-                <span>can</span>
-                <span>accomplish,</span>
-                <span>except</span>
-                <span>the</span>
-                <span>limits</span>
-                <span>you</span>
-                <span>place</span>
-                <span>on</span>
-                <span>your</span>
-                <span>own</span>
-                <span>thinking.</span>
-              </h1>
-       
-             </div>     
-             </div>
-          </div>
-          <!-- <div class="carousel-item">
-            <div class="carousel-item active">
-              <div class="home">
-                <img class="homeimg" src="images/deborah-cortelazzi-gREquCUXQLI-unsplash.jpg"  alt="">
-               <div class="header">
-                 <form >
-                   <h1 class="find1"></h1>
-                   <div class="formbox1">
-                      <input type="text" class="search-field business" placeholder="Gender">
-                     <input type="text" class="search-field location" placeholder="Location"> 
-                     <button class="reg" type="button">List your place</button>
-                     </button>
-                   </div>
-                 </form>
-         
-               </div>     
-               </div>
-            </div>
-          </div> -->
-        </div>
-        <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div> -->
-        <!-- why us -->
-    <div id="whyus" class="feat bg-gray pt-5 pb-5">
-      <div class="container">
-        <div class="row">
-          <div class="section-head col-sm-12">
-            <h4><span>Why Choose</span> US?</h4>
-            <p>Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum has been the industry's<br>standard dummy text ever since the 1500s, when an unknown book.</p>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <div class="item"> <span class="icon feature_box_col_one"><img class="icons" src="images/customer.jpg" alt=""></i></span>
-              <h6>Customer support</h6>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor Aenean massa.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <div class="item"> <span class="icon feature_box_col_two"><img class="icons" src="images/furnished.jpg" alt="">></span>
-              <h6>Rooms according to need</h6>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor Aenean massa.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <div class="item"> <span class="icon feature_box_col_three"><img class="icons" src="images/know.jpg" alt=""></span>
-              <h6>Know your roommate</h6>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor Aenean massa.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <div class="item"> <span class="icon feature_box_col_four"><img class="icons" src="images/money.jpg" alt=""></span>
-              <h6>Save money</h6>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor Aenean massa.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <div class="item"> <span class="icon feature_box_col_five"><img class="icons" src="images/security.jpg" alt=""></span>
-              <h6>Security AND safety</h6>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor Aenean massa.</p>
-            </div>
-          </div>
-          <div class="col-lg-4 col-sm-6">
-            <div class="item"> <span class="icon feature_box_col_six"><img class="icons" src="images/women sleeping.jpg" alt=""></span>
-              <h6>Comfortable stay</h6>
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor Aenean massa.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  <!-- testimonials -->
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
   
-<div id="testimonials" class="container12">
-  <h1 class="te">TESTIMONIALS</h1>
-  <div class="columns">
-      <div class="col-1"><button class="tfeature_btn" id="tfeature_prev"><span class="sr-only">Show Previous Testimonial</span>&lt;</button></div>
-      <div class="col-9"><div id="tfeature-images" tabindex="-1"></div></div>
-      <div class="col-1"><button class="tfeature_btn" id="tfeature_next"><span class="sr-only">Show Next Testimonial</span>&gt;</button></div>
-  </div>    
-  <div id="tfeature-testimonial" aria-live="assertive" tabindex="0">
-      <div id="tfeature-testimonial_content">...</div>
-      <div id="tfeature-testimonial_author">...</div>
-  </div>
-</div>
-<script>
-  function testimonialFeature(){
-        if(tx_activeIndex > tx_length){tx_activeIndex = 0;}
-        if(tx_activeIndex < 0){tx_activeIndex = tx_length;}
-        $('#tfeature-testimonial_content').html(testimonials[tx_activeIndex]["content"]);
-        $('#tfeature-testimonial_author').html(testimonials[tx_activeIndex]["author"]);
-        
-        //set images
-        $('.tfeature-images_item').removeClass('left').removeClass('center').removeClass('right');
-        $('.tfeature-images_item[data-id="'+tx_activeIndex+'"]').addClass('center');
-        $('.tfeature-images_item[data-id="'+tx_activeIndex+'"]').prev().addClass('left');
-        $('.tfeature-images_item[data-id="'+tx_activeIndex+'"]').next().addClass('right');
-        
-        //infinity look
-        if(tx_activeIndex == 0){ $('.tfeature-images_item:last-of-type').addClass('left'); }
-        if(tx_activeIndex == tx_length){ $('.tfeature-images_item:first-of-type').addClass('right'); }
-        
-    }
-    
-    var testimonials = [
-        {"author": "-Han", "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nesciunt iusto officia. Quos provident sint reprehenderit temporibus nisi. Illum a laborum aspernatur eum soluta facere repellat esse doloremque, quas voluptatibus.", "image": "images/t.jpg"},
-        {"author": "-Leia", "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nesciunt iusto officia. Quos provident sint reprehenderit temporibus nisi. Illum a laborum aspernatur eum soluta facere repellat esse doloremque, quas voluptatibus.", "image": "images/t.jpg"},
-        {"author": "-Rey", "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nesciunt iusto officia. Quos provident sint reprehenderit temporibus nisi. Illum a laborum aspernatur eum soluta facere repellat esse doloremque, quas voluptatibus.", "image": "images/t.jpg"},
-        {"author": "-Finn", "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nesciunt iusto officia. Quos provident sint reprehenderit temporibus nisi. Illum a laborum aspernatur eum soluta facere repellat esse doloremque, quas voluptatibus.", "image": "images/t.jpg"},
-        {"author": "-Poe", "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit nesciunt iusto officia. Quos provident sint reprehenderit temporibus nisi. Illum a laborum aspernatur eum soluta facere repellat esse doloremque, quas voluptatibus.", "image": "images/t.jpg"},
-    ];
-    
-    //set initial content
-    tx_activeIndex = 2;
-    tx_length = parseInt(testimonials.length)-1;
-    testimonialFeature();
-    
-    //make image elements
-    for(var i=0; i<testimonials.length; i++) {
-        switch(true){
-            case(i==1):
-                var placement = "left";
-                break;
-            case(i==2):
-                var placement = "center";
-                break; 
-            case(i==3):
-                var placement = "right";
-                break;    
-            default:
-                var placement = "";
-                break;
-        }
-        $('#tfeature-images').append('<div class="tfeature-images_item '+placement+'" data-id="'+i+'"><img src="'+testimonials[i]["image"]+'" alt=""></div>')
-    }    
-    
-    $('#tfeature_prev').on('click', function(e){
-        e.preventDefault();
-        tx_activeIndex = tx_activeIndex-1;
-        testimonialFeature();
-    });
-    
-    $('#tfeature_next').on('click', function(e){
-        e.preventDefault();
-        tx_activeIndex = tx_activeIndex+1;
-        testimonialFeature();
-    });
-</script>
-  <!-- <div id="testim" class="testim">
-    <h1 class="tes">TESTIMONIALS</h1> -->
-    <!--         <div class="testim-cover"> -->
-                <!-- <div class="wrap">
-    
-                    <span id="right-arrow" class="arrow right fa fa-chevron-right"></span>
-                    <span id="left-arrow" class="arrow left fa fa-chevron-left "></span>
-                    <ul id="testim-dots" class="dots"> -->
-                        <!-- <li class="dot active"></li> -->
-                        <!--
-                        -->
-                        <!-- <li class="dot"></li> -->
-                        <!--
-                        -->
-                        <!-- <li class="dot"></li> -->
-                        <!--
-                        -->
-                        <!-- <li class="dot"></li> -->
-                        <!--
-                        -->
-                        <!-- <li class="dot"></li>
-                    </ul>
-                    <div id="testim-content" class="cont">
-                        
-                        <div class="active">
-                            <div class="img"><img src="https://image.ibb.co/hgy1M7/5a6f718346a28820008b4611_750_562.jpg" alt=""></div>
-                            <h2>Lorem P. Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
-                        </div>
-    
-                        <div>
-                            <div class="img"><img src="https://image.ibb.co/cNP817/pexels_photo_220453.jpg" alt=""></div>
-                            <h2>Mr. Lorem Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
-                        </div>
-    
-                        <div>
-                            <div class="img"><img src="https://image.ibb.co/iN3qES/pexels_photo_324658.jpg" alt=""></div>
-                            <h2>Lorem Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
-                        </div>
-    
-                        <div>
-                            <div class="img"><img src="https://image.ibb.co/kL6AES/Top_SA_Nicky_Oppenheimer.jpg" alt=""></div>
-                            <h2>Lorem De Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
-                        </div>
-    
-                        <div>
-                            <div class="img"><img src="https://image.ibb.co/gUPag7/image.jpg" alt=""></div>
-                            <h2>Ms. Lorem R. Ipsum</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>                    
-                        </div>
-    
-                    </div>
-    
-                </div> -->
-    <!--         </div> -->
-              <!-- </div> -->
-    
-    <script src="https://use.fontawesome.com/1744f3f671.js"></script>
-  <script>
-    // vars
-  'use strict'
-  var	testim = document.getElementById("testim"),
-      testimDots = Array.prototype.slice.call(document.getElementById("testim-dots").children),
-      testimContent = Array.prototype.slice.call(document.getElementById("testim-content").children),
-      testimLeftArrow = document.getElementById("left-arrow"),
-      testimRightArrow = document.getElementById("right-arrow"),
-      testimSpeed = 4500,
-      currentSlide = 0,
-      currentActive = 0,
-      testimTimer,
-      touchStartPos,
-      touchEndPos,
-      touchPosDiff,
-      ignoreTouch = 30;
-  ;
-  
-  window.onload = function() {
-  
-      // Testim Script
-      function playSlide(slide) {
-          for (var k = 0; k < testimDots.length; k++) {
-              testimContent[k].classList.remove("active");
-              testimContent[k].classList.remove("inactive");
-              testimDots[k].classList.remove("active");
-          }
-  
-          if (slide < 0) {
-              slide = currentSlide = testimContent.length-1;
-          }
-  
-          if (slide > testimContent.length - 1) {
-              slide = currentSlide = 0;
-          }
-  
-          if (currentActive != currentSlide) {
-              testimContent[currentActive].classList.add("inactive");            
-          }
-          testimContent[slide].classList.add("active");
-          testimDots[slide].classList.add("active");
-  
-          currentActive = currentSlide;
-      
-          clearTimeout(testimTimer);
-          testimTimer = setTimeout(function() {
-              playSlide(currentSlide += 1);
-          }, testimSpeed)
-      }
-  
-      testimLeftArrow.addEventListener("click", function() {
-          playSlide(currentSlide -= 1);
-      })
-  
-      testimRightArrow.addEventListener("click", function() {
-          playSlide(currentSlide += 1);
-      })    
-  
-      for (var l = 0; l < testimDots.length; l++) {
-          testimDots[l].addEventListener("click", function() {
-              playSlide(currentSlide = testimDots.indexOf(this));
-          })
-      }
-  
-      playSlide(currentSlide);
-  
-      // keyboard shortcuts
-      document.addEventListener("keyup", function(e) {
-          switch (e.keyCode) {
-              case 37:
-                  testimLeftArrow.click();
-                  break;
-                  
-              case 39:
-                  testimRightArrow.click();
-                  break;
-  
-              case 39:
-                  testimRightArrow.click();
-                  break;
-  
-              default:
-                  break;
-          }
-      })
-      
-      testim.addEventListener("touchstart", function(e) {
-          touchStartPos = e.changedTouches[0].clientX;
-      })
-    
-      testim.addEventListener("touchend", function(e) {
-          touchEndPos = e.changedTouches[0].clientX;
-        
-          touchPosDiff = touchStartPos - touchEndPos;
-        
-          console.log(touchPosDiff);
-          console.log(touchStartPos);	
-          console.log(touchEndPos);	
-  
-        
-          if (touchPosDiff > 0 + ignoreTouch) {
-              testimLeftArrow.click();
-          } else if (touchPosDiff < 0 - ignoreTouch) {
-              testimRightArrow.click();
-          } else {
-            return;
-          }
-        
-      })
-  }
-  </script>  
-  <!-- end testimonials -->
-       <!--   TESTIMONIALS -->
-       <!-- Dribbble shot: https://dribbble.com/shots/2440153-Testimonials -->
-
-<!-- Dribbble shot: https://dribbble.com/shots/2440153-Testimonials -->
-
-<!-- Dribbble shot: https://dribbble.com/shots/2440153-Testimonials -->
-
-<!-- <div id="testimonials" class="testimonials-container">
-  <h1>TESTIMONIALS</h1>
-	<i class="fa fa-quote-left fa-5x"></i>
-	<p class="text"></p>
-	<strong class="name"></strong>
-	<div class="authors-container">
-		<div class="author selected"><img src="https://randomuser.me/api/portraits/men/41.jpg" alt=""></div>
-		<div class="author"><img src="https://randomuser.me/api/portraits/women/50.jpg" alt=""></div>
-		<div class="author"><img src="https://randomuser.me/api/portraits/women/22.jpg" alt=""></div>
-		<div class="author"><img src="https://randomuser.me/api/portraits/women/76.jpg" alt=""></div>
-		<div class="author"><img src="https://randomuser.me/api/portraits/men/17.jpg" alt=""></div>
-	</div>
-</div>
-<script>
-    $('li > a').on('click', function () {
-        $('li').removeClass();
-        $('li').addClass('nav-item');
-        $(this).parent().addClass('nav-item active');
-    });
-</script>
-</html>
- <script>
-const authorsEl = document.querySelectorAll('.author');
-const container = document.querySelector('.testimonials-container');
-const nameEl = document.querySelector('.name');
-const textEl = document.querySelector('.text');
-
-const testimonials = [{
-	text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis reiciendis quae consectetur deserunt eum voluptatibus magnam? Id quod nam vero ab, reiciendis delectus dolorum laborum, optio molestias magnam ipsam beatae.',
-	name: '-abc',
-	color: 'rgba(117, 185, 190)'
-},{
-	text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis reiciendis quae consectetur deserunt eum voluptatibus magnam? Id quod nam vero ab, reiciendis delectus dolorum laborum, optio molestias magnam ipsam beatae.',
-	name: '-xyz',
-	color: 'rgba(168, 204, 201)'
-},{
-	text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis reiciendis quae consectetur deserunt eum voluptatibus magnam? Id quod nam vero ab, reiciendis delectus dolorum laborum, optio molestias magnam ipsam beatae.',
-	name: '-pqr',
-	color: 'rgba(175, 208, 191)'
-},{
-	text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis reiciendis quae consectetur deserunt eum voluptatibus magnam? Id quod nam vero ab, reiciendis delectus dolorum laborum, optio molestias magnam ipsam beatae.',
-	name: '-efg',
-	color: 'rgba(21, 15, 127, 0.2)'
-},{
-	text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis reiciendis quae consectetur deserunt eum voluptatibus magnam? Id quod nam vero ab, reiciendis delectus dolorum laborum, optio molestias magnam ipsam beatae.',
-	name: '-stu',
-	color: 'rgba(35, 102, 184, 0.2)'
-}];
-
-addTestimonial(0);
-
-authorsEl.forEach((author, idx) => {
-	author.addEventListener('click', (e) => {
-		addTestimonial(idx);
-		author.classList.add('selected');
-	})
-});
-
-function addTestimonial(idx) {
-	const testimonial = testimonials[idx];
-	
-	nameEl.innerHTML = testimonial.name;
-	textEl.innerHTML = testimonial.text;
-	container.style.background = testimonial.color;
-	container.style.boxShadow = `0 35px 10px -20px ${testimonial.color.substring(0, testimonial.color.length-4)}0.9)`;
-	
-	authorsEl.forEach(author => {
-		author.classList.remove('selected');
-	});
+}
+/* the top header */
+* {
+  box-sizing: border-box;
 }
 
-// SOCIAL PANEL JS
-const floating_btn = document.querySelector('.floating-btn');
-const close_btn = document.querySelector('.close-btn');
-const social_panel_container = document.querySelector('.social-panel-container');
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 120px; /* Should be removed. Only for demonstration */
+}
+.column1 {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 120px; /* Should be removed. Only for demonstration */
+}
+.column2 {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 120px; /* Should be removed. Only for demonstration */
+}
 
-floating_btn.addEventListener('click', () => {
-	social_panel_container.classList.toggle('visible')
-});
 
-close_btn.addEventListener('click', () => {
-	social_panel_container.classList.remove('visible')
-});
-</script> -->
- <!-- GALLERY -->
-  <!-- Container (DISCOGRAPHY Section) -->
-  <!-- <div id="discography">
-    <div class="container">
-      <h3 class="textc">GALLERY</h3>
-      
-      
-      
-      <div class="row text-center">
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="speakc-evil" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-            
-            
-            <button id="but" class="btn" data-toggle="modal" data-target="#speaksevil">Details</button>
-          </div>
-        </div>
-  
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="roll-the-balls" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-            
-            
-            <button id="but" class="btn" data-toggle="modal" data-target="#rolltheballs">Details</button>
-          </div>
-        </div>
-  
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="let-s-do-it-again" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-            
-            
-            <button id="but" class="btn" data-toggle="modal" data-target="#letsdoitagain">Details</button>
-          </div>
-        </div>
-  
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="YELLOW DASH" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-      
-            <button id="but" class="btn" data-toggle="modal" data-target="#yellowdash">Details</button>
-          </div>
-        </div>
-  
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="TEENAGE REBEL" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-            <button id="but" class="btn" data-toggle="modal" data-target="#teenagerebel">Details</button>
-          </div>
-        </div>
-  
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="WILD TIGER WOMAN" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-        
-            <button id="but" class="btn" data-toggle="modal" data-target="#wildtigerwoman">Details</button>
-          </div>
-        </div>
-  
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="RACEY ROLLER" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-        
-            <button id="but" class="btn" data-toggle="modal" data-target="#raceyroller">Details</button>
-          </div>
-        </div>
-  
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="GET IT OVER" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-        
-            <button id="but" class="btn" data-toggle="modal" data-target="#getitover">Details</button>
-          </div>
-        </div>
-  
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg" alt="NUMBER 10" width="400" height="300">
-            <p><strong>ADDRESS</strong></p>
-        
-            <button id="but" class="btn" data-toggle="modal" data-target="#number10">Details</button>
-          </div>
-        </div>
-  
-      </div>
-    </div>
-   -->
-    
-    
-    <!-- speaksevil -->
-    <!-- <div class="modal fade" id="speaksevil" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> house</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" /></p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Id obcaecati numquam neque inventore ipsam laborum aliquid quidem, blanditiis, atque culpa et! Hic sequi repellendus cupiditate sapiente et ut soluta sunt nesciunt voluptate nihil, tempore quas iste quos dolorem aliquam  <br>RENT: $39031 per month</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-            <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div> -->
-    <!-- </div> -->
-  
-    <!-- roll the balls -->
-    <!-- <div class="modal fade" id="rolltheballs" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> HOUSE</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" /></p>
-            
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae cupiditate quos, in alias ipsam animi, pariatur eveniet ab eaque, recusandae tenetur reprehenderit rem qui. Dolorem tempora ducimus aspernatur autem ut quia expedita enim dolores temporibus harum. Facilis neque fugiat quae!</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-              <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-   -->
-    <!-- lets do it again -->
-    <!-- <div class="modal fade" id="letsdoitagain" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> House</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" /></p>
-            
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur alias consequatur dolorum at. Quis libero minus soluta commodi nobis quos accusamus at, odit repudiandae blanditiis id quo sit, neque assumenda aspernatur eveniet! Cumque sed itaque et officiis soluta voluptatum id.</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-              <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div>
-    </div> -->
-  
-    <!-- yellow dash -->
-    <!-- <div class="modal fade" id="yellowdash" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> house</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" /></p>
-            
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi laboriosam distinctio accusantium dicta necessitatibus dolorem aliquam, cum tempora. Quo illum sapiente accusamus beatae dignissimos animi fuga labore obcaecati accusantium laboriosam! Ipsa vero consectetur ad error soluta, doloribus quibusdam molestiae nostrum.</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-              <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div>
-    </div> -->
-  
-    <!-- teenage rebel -->
-    <!-- <div class="modal fade" id="teenagerebel" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> HOuse</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" /></p>
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi pariatur doloremque ab amet dignissimos possimus est voluptatibus, nihil ex voluptatum dolores quos perspiciatis, deleniti officiis quas accusantium cupiditate, itaque corporis?</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-              <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div>
-    </div> -->
-  
-    <!-- wild tiger woman -->
-    <!-- <div class="modal fade" id="wildtigerwoman" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> House</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" />
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque officia ratione libero tenetur ea quaerat beatae laborum fugit id, unde, dolores dolorem blanditiis. Velit perspiciatis quia ullam labore esse tempore, accusantium porro sequi commodi ex blanditiis maiores deleniti ad dignissimos.</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-              <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-   -->
-    <!-- racey roller -->
-    <!-- <div class="modal fade" id="raceyroller" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> house</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" />
-            
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod sunt placeat harum aliquid explicabo, officiis molestiae molestias perferendis doloribus dicta non labore atque, aspernatur ducimus quos pariatur maxime officia quam nostrum velit nihil quisquam. Corporis iste deleniti voluptatem dignissimos labore?</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-              <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div>
-    </div> -->
-  
-    <!-- get it over -->
-    <!-- <div class="modal fade" id="getitover" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> house</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" /></p>
-            
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id expedita fugit pariatur vel repellendus! Sit error velit dolor nisi eveniet nobis sequi, ab in obcaecati maxime illo aspernatur cupiditate rem rerum quidem vel at iste consequatur reprehenderit. Excepturi, assumenda ab!</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-              <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-   -->
-    <!-- number10 -->
-    <!-- <div class="modal fade" id="number10" role="dialog">
-      <div class="modal-dialog"> -->
-      
-        <!-- Modal content-->
-        <!-- <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">×</button>
-            <h4><span class="glyphicon glyphicon-flash"></span> house</h4>
-          </div>
-          <div class="modal-body">
-            
-            
-            <ul style="list-style: none;">
-            <img  title="SPEAKS EVIL" alt="" src="house/alberto-castillo-q-mx4mSkK9zeo-unsplash.jpg" /></p>
-            
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse autem commodi quod sunt deserunt natus repudiandae eos velit ut et odio error, sapiente repellat mollitia illo sequi debitis nobis, cumque quaerat, obcaecati consequuntur. Iusto ut aliquid consequatur deleniti molestias quas!</p>
-            </ul>
-  
-            <ul style="list-style: none;">
-              <li><iframe width="460" height="315" src="https://www.youtube.com/embed/_Ecl_XEETEA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>
-            </ul>
-            
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
-              <span class="glyphicon glyphicon-remove"></span> Close
-            </button>
-          </div>
-        </div>
-      </div>
-    </div> -->
-  
-  <!-- </div> -->
-  <!--END DISCOGRAPHY -->
-  <!-- <script>
-    $(document).ready(function(){ -->
-      <!-- // Initialize Tooltip -->
-      <!-- $('[data-toggle="tooltip"]').tooltip(); -->
-<!--       
-      // Add smooth scrolling to all links in navbar + footer link
-      // $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
-    
-        // Make sure this.hash has a value before overriding default behavior
-        // if (this.hash !== "") {
-    
-          // Prevent default anchor click behavior
-          // event.preventDefault();
-    
-          // Store hash
-          // var hash = this.hash;
-    
-          // Using jQuery's animate() method to add smooth page scroll
-          // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
-          // $('html, body').animate({
-          //   scrollTop: $(hash).offset().top
-          // }, 900, function(){
-       
-            // Add hash (#) to URL when done scrolling (default click behavior)
-            // window.location.hash = hash;
-          // });
-        // } // End if
-    //   });
-    }) -->
-    <!-- </script> -->
-<!-- GALLERY -->
-<div id="gallery" class="container1">
-<h1 class="ga">GALLERY</h1>
-  <div class="cards">
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.compname{
+  margin-left: 70px;
+}
+.email{
+  margin-left: 350px;
+  margin-top: -50px;
+}
+.email1{
+  margin-left: 350px;
+  margin-top: -15px;
+}
+.email2{
+  margin-left: 350px;
+  margin-top: -10px;
+}
+.image1{
+  width: 50px;
+  height: 50px;
+  margin-left: 290px;
+  margin-top: 30px;
+  border-radius: 25px;
+  background: #373b32;
+  padding: 5px;
+}
+.emai{
+  margin-left: 100px;
+  margin-top: -50px;
+}
+.emai1{
+  margin-left: 100px;
+  margin-top: -15px;
+}
+.emai2{
+  margin-left: 100px;
+  margin-top: -10px;
+}
+.imag1{
+  width: 50px;
+  height: 50px;
+  margin-left: 40px;
+  margin-top: 30px;
+  border-radius: 25px;
+  background: #32353b;
+  padding: 5px;
+}
+.navbar {
+  background-color: #47939A;
+  opacity: 0.9;
+}
+element.style {
+  background-color: #47939A;
+}
+.nav-item{
+  margin-left: 5px;
+}
+.nav-link{
+  margin-left: 100px;
+  font-size: 25px; 
+  color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: white;
+  text-decoration: none;
+}
+.navbar-light .navbar-nav .nav-item .nav-link:hover {
+  color: #C7E3E5;
+  text-decoration: none;
+}
+.navbar-light .navbar-toggler {
+  color: rgba(255, 255, 255, 0.5);
+  border-color: rgba(53, 75, 201, 0.1);
+}
+.homeimg{
+  width: 100%;
+  height: 600px;
+  opacity: 0.9;
+}
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 700px) {
+  .column {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 700px) {
+  .column1 {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 700px) {
+  .column2 {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .email {
+    margin-left: 80px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .email1 {
+    margin-left: 80px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .email2 {
+    margin-left: 80px;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .image1 {
+    margin-left: 20px;
+  }
+}
+/* HOME */
+.home{
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+.find{
+  color: black;
+  margin-bottom: 10px;
+  font-size: 25px;
+  letter-spacing: 2px;
+  margin-top: -580px;
+  margin-left: 650px;
+}
+.formbox{
+  margin-left: 440px;
+  margin-top: 20px;
+}
+.search-field
+{
+  height: 50px;
+  padding: 10px;
+  border: none;
+  border-radius: 25px;
+  outline: none;
+  background: rgb(247, 246, 244);
+}
 
-      <div class="card">
-          <div class="card-inner">
-              <div class="card-front">
-                  <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg"
-                      alt="">
-              </div>
-              <div class="card-back">
-                  <h3>about</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, dolorem praesentium
-                      repellendus illum porro dignissimos, impedit mollitia, cupiditate vero labore similique
-                      aperiam nam deleniti exercitationem!</p>
-                      <div id="button"><a class="a1" href="details.html">Details</a></div>
-              </div>
-          </div>
-      </div>
+.business
+{
+  width: 200px;
 
-      <div class="card">
-          <div class="card-inner">
-              <div class="card-front">
-                  <img src="ext/jacques-bopp-Hh18POSx5qk-unsplash.jpg"
-                      alt="">
-              </div>
-              <div class="card-back">
-                  <h3>about</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis minus porro similique rem
-                      commodi ipsa ab sunt, dolore amet consequuntur iure facilis quidem non et.</p>
-                      <div id="button"><a class="a1" href="details.html">Details</a></div>
-              </div>
-          </div>
-      </div>
+}
+.location{
+  width: 300px;
+}
+.searchbtn{
+  height: 50px;
+  width: 150px;
+  background: none;
+  border: none;
+  border-radius: 25px;
+  background: rgb(221, 14, 14);
+}
 
-      <div class="card">
-          <div class="card-inner">
-              <div class="card-front">
-                  <img src="ext/webaliser-_TPTXZd9mOo-unsplash.jpg"
-                      alt="">
-              </div>
-              <div class="card-back">
-                  <h3>about</h3>
-                  <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat delectus molestiae dolorem
-                      voluptate dolorum saepe, nihil recusandae, doloribus neque molestias esse pariatur ad vero
-                      amet.
-                  </p>
-                  <div id="button"><a class="a1" href="details.html">Details</a></div>
-                  
-              </div>
-          </div>
-      </div>
+.formbox{
+  background: rgba(0,0,0);
+  padding: 10px;
+  width: 710px;
+  margin-left: 400px;
+  color: black;
+}
+/* search */
+.for{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    transition: all 1s;
+    width: 50px;
+    height: 50px;
+    background: rgb(226, 33, 33);
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 4px solid white;
+	padding: 5px;
+	margin-top: -500px;
+}
 
-      <div class="card">
-          <div class="card-inner">
-              <div class="card-front">
-                  <img src="ext/florian-schmidinger-b_79nOqf95I-unsplash.jpg"
-                      alt="">
-              </div>
-              <div class="card-back">
-                  <h3>about
-                  </h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, dolorem praesentium
-                      repellendus illum porro dignissimos, impedit mollitia, cupiditate vero labore similique
-                      aperiam nam deleniti exercitationem!</p>
-                      <div id="button"><a class="a1" href="details.html">Details</a></div>
-              </div>
-          </div>
-      </div>
+.in{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;;
+    height: 42.5px;
+    line-height: 30px;
+    outline: 0;
+    border: 0;
+    display: none;
+    font-size: 1em;
+    border-radius: 20px;
+    padding: 0 20px;
+}
 
-      <div class="card">
-          <div class="card-inner">
-              <div class="card-front">
-                  <img src="ext/jacques-bopp-Hh18POSx5qk-unsplash.jpg"
-                      alt="">
-              </div>
-              <div class="card-back">
-                  <h3>about</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis minus porro similique rem
-                      commodi ipsa ab sunt, dolore amet consequuntur iure facilis quidem non et.</p>
-                      <div id="button"><a class="a1" href="details.html">Details</a></div>
-              </div>
-          </div>
-      </div>
+#fa1{
+    box-sizing: border-box;
+    padding: 10px;
+    width: 42.5px;
+    height: 42.5px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-radius: 50%;
+    color: #07051a;
+    text-align: center;
+    font-size: 1.2em;
+    transition: all 1s;
+}
 
-      <div class="card">
-          <div class="card-inner">
-              <div class="card-front">
-                  <img src="ext/webaliser-_TPTXZd9mOo-unsplash.jpg"
-                      alt="">
-              </div>
-              <div class="card-back">
-                  <h3>about
-                  </h3>
-                  <p>
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat delectus molestiae dolorem
-                      voluptate dolorum saepe, nihil recusandae, doloribus neque molestias esse pariatur ad vero
-                      amet.
-                  </p>
-                  <div id="button"><a class="a1" href="details.html">Details</a></div>
-              </div>
-          </div>
-      </div>
+.for:hover{
+    width: 300px;
+    cursor: pointer;
+}
 
-  </div>
-<!-- gallery end -->
-  <!-- ABOUT US -->
-  <!-- <section id="about" class="text-center about">
-    <h1>About US</h1>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4 col-sm-6 col-ex-12 about-item wow lightSpeedIn" data-wow-offset="200" >
-      
-          <span class="fa fa-info"></span>
-          <h2>Extended Home</h2>
-          <p class="lead">The company is born out of an idea to make house hunting easy for singles (includes bachelors & bachelorettes both) and families for whom it is not less than a nightmare to find a perfect abode in a good locality. </p>
-        </div>
-        <div class="col-lg-4 col-sm-6 col-ex-12 about-item wow lightSpeedIn" data-wow-offset="200">
-          <span class="fa fa-map-marker"></span>
-          <h2>Address </h2>
-          <p class="lead1">Office no.6, second floor, Oxford tower <br> opp.Shilp complex, noida,Uttar Pradesh. </p>
-        </div>
-        <div class="clearfix visible-md-block visible-sm-block"></div>
-        <div class="col-lg-4 col-sm-6 col-ex-12 about-item wow lightSpeedIn" data-wow-offset="200">
-          <span class="fa fa-phone"></span>
-          <h2>Contact us</h2>
-          <p class="lead1">Mobile number:+91-9876543210 <br>Email:xyz@gmail.com <br>Fax number:09876543</p>
-        </div>
-        
-      </div>
-      
-    </div>
-  </section> -->
-   
+.for:hover .in{
+    display: block;
+}
 
-<footer id="about" class="new_footer_area bg_color"></footer>
-  <div class="new_footer_top">
-      <div class="container">
-          <div class="row">
-              <div class="col-lg-3 col-md-6">
-                  <div class="f_widget company_widget wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                      <h3 class="f-title f_600 t_color f_size_18">Extended home</h3>
-                      <p class="pa">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur repudiandae obcaecati molestias ipsum velit. Sit maxime facere necessitatibus quos? Ea, provident. Eum consectetur labore nesciunt exercitationem, officia hic provident beatae?</p>
-                      <!-- <form action="#" class="f_subscribe_two mailchimp" method="post" novalidate="true" _lpchecked="1">
-                          <input type="text" name="EMAIL" class="form-control memail" placeholder="Email">
-                          <button class="btn btn_get btn_get_two" type="submit"></button>
-                          <p class="mchimp-errmessage" style="display: none;"></p>
-                          <p class="mchimp-sucmessage" style="display: none;"></p>
-                      </form> -->
-                  </div>
-              </div>
-              <!-- <div class="col-lg-3 col-md-6">
-                  <div class="f_widget about-widget pl_70 wow fadeInLeft" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInLeft;">
-                      <h3 class="f-title f_600 t_color f_size_18"></h3>
-                      <ul class="list-unstyled f_list">
-                          <li><a href="#"></a></li>
-                          <li><a href="#"></a></li>
-                          <li><a href="#"></a></li>
-                          <li><a href="#"></a></li>
-                          <li><a href="#"></a></li>
-                          <li><a href="#"></a></li>
-                      </ul>
-                  </div>
-              </div>  -->
-              <div class="col-lg-3 col-md-6">
-                  <div class="f_widget about-widget pl_70 wow fadeInLeft" data-wow-delay="0.6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInLeft;">
-                      <h3 class="f-title f_600 t_color f_size_18">Quick links</h3>
-                      <ul class="list-unstyled f_list">
-                          <li><a class="a1" href="#">home</a></li>
-                          <li><a class="a1" href="#">why us</a></li>
-                          <li><a class="a1" href="#">gallery</a></li>
-                          <li><a class="a1" href="#">Testimonials</a></li>
-                        
-                      </ul>
-                  </div>
-              </div>
-              <div class="col-lg-3 col-md-6">
-                  <div class="f_widget social-widget pl_70 wow fadeInLeft" data-wow-delay="0.8s" style="visibility: visible; animation-delay: 0.8s; animation-name: fadeInLeft;">
-                      <h3 class="f-title f_600 t_color f_size_18">Contact Us</h3>
-                      <div class="f_social_icon">
-                          <a class="a1" href="#" class="fa fa-facebook"></a>
-                          <a class="a1" href="#" class="fa fa-twitter"></a>
-                          <a class="a1" href="#" class="fa fa-linkedin"></a>
-                          <a class="a1" href="#" class="fa fa-pinterest"></a>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-      <div class="footer_bg">
-          <div class="footer_bg_one"></div>
-          <div class="footer_bg_two"></div>
-      </div>
-  </div>
-  <div class="footer_bottom">
-      <div class="container">
-          <div class="row align-items-center">
-              <div class="col-lg-6 col-sm-7">
-                  <p class="mb-0 f_400">© Extended home Inc.. 2020 All rights reserved.</p>
-              </div>
-              <div class="col-lg-6 col-sm-5 text-right">
-                  <p> <i class="icon_heart"></i>  <a href="#"></a></p>
-              </div>
-          </div>
-      </div>
-  </div>
-</footer>
-  <!-- try -->
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
-  </body>
-</html>
+.for:hover #fa1{
+    background: #07051a;
+    color: white;
+}
+/*  */
+.home{
+ 
+  width: 100%;
+  height: 40vw;
+}
+.reg{
+  height: 50px;
+  width: 250px;
+  background: none;
+  border: none;
+  border-radius: 25px;
+  background: rgb(173, 6, 6);
+  margin-left: 220px;
+}
+.find1{
+  color: rgb(31, 124, 231);
+  margin-bottom: 10px;
+  font-size: 25px;
+  letter-spacing: 2px;
+  margin-top: -560px;
+  margin-left: 690px;
+}
+.formbox1{
+  margin-left: 440px;
+  margin-top: 20px;
+}
+/* #whyus{
+	background-color: rgb(90, 168, 214)
+} */
+/* TESTIMONIALS */
+
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+/* 
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #D3CCE3;
+	background: -webkit-linear-gradient(to bottom, #E9E4F0, #D3CCE3);
+	background: linear-gradient(to bottom, #E9E4F0, #D3CCE3);
+	font-family: 'Roboto', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+	margin: 0;
+} */
+/* 
+.testimonials-container {
+	color: rgba(255, 255, 255, 0.8);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 70px 50px 50px;
+	transition: all 0.3s ease-in;
+	margin: 20px;
+  max-width: 100%;
+  
+} */
+/* 
+.fa-quote-left {
+	color: rgba(0, 0, 0, 0.15);
+	font-size: 50px;
+}
+
+.text {
+	line-height: 30px;
+	margin: 40px 0 20px;
+	min-height: 150px;
+	max-width: 600px;
+	text-align: justify;
+	word-spacing: 5px;
+}
+
+.name {
+	align-self: flex-end;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+
+.authors-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.author {
+	margin: 30px 30px 0;
+	cursor: pointer;
+}
+
+.author.selected img {
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+	transform: scale(1.2);
+}
+
+.author img {
+	transition: all 0.3s ease-in;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+}
+ */
+
+
+/* SOCIAL PANEL CSS */
+/* .social-panel-container {
+	position: fixed;
+	right: 0;
+	bottom: 80px;
+	transform: translateX(100%);
+	transition: transform 0.4s ease-in-out;
+}
+
+.social-panel-container.visible {
+	transform: translateX(-10px);
+}
+
+.social-panel {	
+	background-color: #fff;
+	border-radius: 16px;
+	box-shadow: 0 16px 31px -17px rgba(0,31,97,0.6);
+	border: 5px solid #001F61;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Muli';
+	position: relative;
+	height: 169px;	
+	width: 370px;
+	max-width: calc(100% - 10px);
+}
+
+.social-panel button.close-btn {
+	border: 0;
+	color: #97A5CE;
+	cursor: pointer;
+	font-size: 20px;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+}
+
+.social-panel button.close-btn:focus {
+	outline: none;
+}
+
+.social-panel p {
+	background-color: #001F61;
+	border-radius: 0 0 10px 10px;
+	color: #fff;
+	font-size: 14px;
+	line-height: 18px;
+	padding: 2px 17px 6px;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin: 0;
+	transform: translateX(-50%);
+	text-align: center;
+	width: 235px;
+} */
+/* 
+.social-panel p i {
+	margin: 0 5px;
+}
+
+.social-panel p a {
+	color: #FF7500;
+	text-decoration: none;
+}
+
+.social-panel h4 {
+	margin: 20px 0;
+	color: #97A5CE;	
+	font-family: 'Muli';	
+	font-size: 14px;	
+	line-height: 18px;
+	text-transform: uppercase;
+}
+
+.social-panel ul {
+	display: flex;
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+.social-panel ul li {
+	margin: 0 10px;
+}
+
+.social-panel ul li a {
+	border: 1px solid #DCE1F2;
+	border-radius: 50%;
+	color: #001F61;
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 50px;
+	width: 50px;
+	text-decoration: none;
+}
+
+.social-panel ul li a:hover {
+	border-color: #FF6A00;
+	box-shadow: 0 9px 12px -9px #FF6A00;
+} */
+/* 
+.floating-btn {
+	border-radius: 26.5px;
+	background-color: #001F61;
+	border: 1px solid #001F61;
+	box-shadow: 0 16px 22px -17px #03153B;
+	color: #fff;
+	cursor: pointer;
+	font-size: 16px;
+	line-height: 20px;
+	padding: 12px 20px;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	z-index: 999;
+}
+
+.floating-btn:hover {
+	background-color: #ffffff;
+	color: #001F61;
+}
+
+.floating-btn:focus {
+	outline: none;
+}
+
+.floating-text {
+	background-color: #001F61;
+	border-radius: 10px 10px 0 0;
+	color: #fff;
+	font-family: 'Muli';
+	padding: 7px 15px;
+	position: fixed;
+	bottom: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+	z-index: 998;
+}
+
+.floating-text a {
+	color: #FF7500;
+	text-decoration: none;
+}
+
+@media screen and (max-width: 480px) {
+
+	.social-panel-container.visible {
+		transform: translateX(0px);
+	}
+	
+	.floating-btn {
+		right: 10px;
+	}
+} */
+/* GALLERY */
+/* .gal{
+	margin-top: 50px;
+	margin-left: 680px;
+	color: #3F6BA2;
+	font-size: 34px;
+	font-weight: 700;
+}
+.para{
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 220px;
+	margin-right: 220px;
+}
+.containerimg {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+	gap: 40px;
+	background: rgb(255, 255, 255);
+	padding: 45px;
+  }
+  .containerimg img {
+	width: 100%;
+	display: block;
+	-webkit-filter: grayscale(1);
+	filter: grayscale(1);
+	transition: all 100ms ease-out;
+  }
+  .containerimg img:hover {
+	transform: scale(1.04);
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+  }
+   */
+   /* trial */
+   .square-flip{
+	-webkit-perspective: 1000;
+	-moz-perspective: 1000;
+	-ms-perspective: 1000;
+	perspective: 1000;
+
+	-webkit-transform: perspective(1000px);
+	-moz-transform: perspective(1000px);
+	-ms-transform: perspective(1000px);
+	transform: perspective(1000px);
+
+	-webkit-transform-style: preserve-3d; 
+	-moz-transform-style: preserve-3d; 
+	-ms-transform-style: preserve-3d; 
+	transform-style: preserve-3d; 
+
+	/*border:1px solid #efefef;*/
+	
+	position:relative;
+	float:left;
+	margin:20px;
+
+	}
+	.square-flip{
+		width:400px;
+		height:400px;
+	}
+	.square,.square2{
+		width:100%;
+		height:100%;
+	}
+	.square{
+
+		background-size: cover;
+		background-position:center center;
+
+		-ms-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+			transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+			-webkit-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+		overflow: hidden;
+
+		position:absolute;
+		top:0;
+
+
+		-webkit-backface-visibility: hidden; 
+		backface-visibility: hidden;
+	}
+	.square-flip .square{
+		-webkit-transform: rotateY(0deg);
+		-moz-transform: rotateY(0deg);
+		-o-transform: rotateY(0deg);
+		-ms-transform: rotateY(0deg);
+		transform: rotateY(0deg);
+		transform-style: preserve-3d;
+		z-index:1;
+	}
+	.square-flip:hover .square{
+		-webkit-transform: rotateY(-180deg);
+		-moz-transform: rotateY(-180deg);
+		-o-transform: rotateY(-180deg);
+		-ms-transform: rotateY(-180deg);
+		transform: rotateY(-180deg);
+		transform-style: preserve-3d;
+	}
+
+
+	.square2{
+
+		background-size: cover;
+		background-position:center center;
+
+		-ms-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+			transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+			-webkit-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+		overflow: hidden;
+
+		position:absolute;
+		top:0;
+
+		-webkit-backface-visibility: hidden; 
+		backface-visibility: hidden;
+	}
+	.square-flip .square2{
+		-webkit-transform: rotateY(180deg);
+		-moz-transform: rotateY(180deg);
+		-o-transform: rotateY(180deg);
+		-ms-transform: rotateY(180deg);
+		transform: rotateY(180deg);
+		transform-style: preserve-3d;
+		z-index:1;
+	}
+	.square-flip:hover .square2{
+		-webkit-transform: rotateY(0deg);
+		-moz-transform: rotateY(0deg);
+		-o-transform: rotateY(0deg);
+		-ms-transform: rotateY(0deg);
+		transform: rotateY(0deg);
+		transform-style: preserve-3d;
+	}
+
+	/*Square content*/
+	.square-container{
+		padding:40px;
+		text-align:center;
+		position:relative;
+		top:50%;
+
+		-ms-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+			transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+			-webkit-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+
+	
+		-webkit-transform: translateY(-50%) translateX(0px)  scale(1);
+		-ms-transform: translateY(-50%) translateX(0px)  scale(1);
+transform: translateY(-50%) translateX(0px)  scale(1);
+		transform-style: preserve-3d;
+		z-index:2;
+	}
+	.square-flip:hover .square-container{
+		
+		-webkit-transform: translateY(-50%) translateX(-650px)  scale(.88);
+		-ms-transform: translateY(-50%) translateX(-650px)  scale(.88);
+  transform: translateY(-50%) translateX(-650px)  scale(.88);
+		transform-style: preserve-3d;
+
+	}
+
+	.square-container2{
+		padding:40px;
+		text-align:center;
+		position:relative;
+		top:50%;
+
+		-ms-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+			transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+			-webkit-transition: transform 0.60s cubic-bezier(.5,.3,.3,1);
+
+		
+		-webkit-transform: translateY(-50%) translateX(650px) translateZ(60px) scale(.88);
+		-ms-transform: translateY(-50%) translateX(650px) translateZ(60px) scale(.88);
+  transform: translateY(-50%) translateX(650px) translateZ(60px) scale(.88);
+
+		transform-style: preserve-3d;
+		z-index:2;
+	}
+	.square-flip:hover .square-container2{
+		
+		-webkit-transform: translateY(-50%) translateX(0px) translateZ(0px) scale(1);
+		-ms-transform: translateY(-50%) translateX(0px) translateZ(0px) scale(1);
+		transform: translateY(-50%) translateX(0px) translateZ(0px) scale(1);
+  transform-style: preserve-3d;
+	}
+
+
+
+	/*Style text*/
+	.square-flip h2{
+		color:white;
+		font-family: "Open Sans";
+		font-weight:700;
+		font-size:22px;
+	}
+	.square-flip h3{
+		color:white;
+		font-family: "Open Sans";
+		font-weight:500;
+		font-size:16px;
+		line-height:26px;
+	}
+	/*Elements*/
+	.flip-overlay{
+		display:block;
+		background:rgba(0,0,0,0.5);
+		width:100%;
+		height:100%;
+		position:absolute;
+		top:0;
+	}
+	.align-center{
+		margin:0 auto;
+	}
+	.kallyas-button{
+		display:block;
+		width:160px;
+		padding:18px 30px;
+		font-family:"Open Sans";
+		font-weight:600;
+		color:#fff;
+		background:#FF2024;
+		margin:0 auto;
+		border-radius:2px;
+		text-decoration:none;
+
+		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffa067+0,ff2959+49,ff2024+100 */
+		background: #ffa067; /* Old browsers */
+		background: -moz-linear-gradient(-45deg,  #ffa067 0%, #ff2959 49%, #ff2024 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(-45deg,  #ffa067 0%,#ff2959 49%,#ff2024 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(135deg,  #ffa067 0%,#ff2959 49%,#ff2024 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa067', endColorstr='#ff2024',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	}
+
+
+	/*ADD SHADOWS OPTIONAL*/
+	.square-flip .square .boxshadow, .square-flip .square .textshadow, .square-flip .square2 .boxshadow, .square-flip .square2 .textshadow{
+		-ms-transition: 0.60s;
+			transition: 0.60s;
+			-webkit-transition: 0.60s;
+	}
+
+	.square-flip .square .boxshadow{
+		-webkit-box-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+		-moz-box-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+		box-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+	}
+	.square-flip .square .textshadow{
+		-webkit-text-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+		-moz-text-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+		text-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+	}
+	.square-flip:hover .square .boxshadow, .square-flip:hover .square .textshadow{
+		-webkit-box-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+		-moz-box-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+		box-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+	}
+
+
+	.square-flip .square2 .boxshadow{
+		-webkit-box-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+		-moz-box-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+		box-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+	}
+	.square-flip .square2 .textshadow{
+		-webkit-text-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+		-moz-text-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+		text-shadow: 240px 42px 58px -8px rgba(0,0,0,0.0);
+	}
+	.square-flip:hover .square2 .boxshadow, .square-flip:hover .square2 .textshadow{
+		-webkit-box-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+		-moz-box-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+		box-shadow: 24px 42px 58px -8px rgba(0,0,0,0.3);
+	}
+
+	
+	/*You can delete this style*/
+	.centerflipcards{
+  display:block;
+		width:1330px;
+  height:440px;
+		text-align:center;
+		margin:0 auto;
+		margin-top:25px;
+	}
+.clearfix{clear:both;}
+.centerflipcards p{
+  font-family:"Open Sans";
+  font-size:13px;
+  margin-top:10px;
+  font-weight:700;
+}
+   /* trail */
+   /* .pho{
+	   width: 80px;
+	   height: 80px;
+
+   }
+   .pho1{
+	width: 80px;
+	height: 80px;
+    margin-left: 100px;
+}
+.pho2{
+	width: 80px;
+	height: 80px;
+  margin-left: -400px;
+  margin-top: 150px;
+}
+.pho3{
+	width: 190%;
+	height: 100px;
+   margin-left: -120px;
+   margin-top: 120px;
+}
+   .gal{
+	margin-top: 50px;
+	margin-left: 680px;
+	color: #3F6BA2;
+	font-size: 34px;
+	font-weight: 700;
+}
+   .para{
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 220px;
+	margin-right: 220px;
+}
+   a{
+    color: #354067;
+    letter-spacing:1px;
+	margin-left: 20px;
+	text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: red;
+}
+#nav { text-align: center; }
+ul{
+	text-align: center;
+	text-decoration: none;
+}
+
+.card {
+    height: 340px;
+    margin: 1em;
+    perspective: 1500px;
+}
+
+.card .content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.8s cubic-bezier(0.75, 0, 0.85, 1);
+}
+
+.more {
+    display: none;
+}
+
+.more:checked ~ .content {
+    transform: rotateY(180deg);
+} */
+.container{
+	width: 110%;
+	height: 200%;
+
+}
+/* .active a{
+     color: red; 
+     border-bottom: 2px solid red !important; 
+    padding-bottom: 14px;
+} */
+/* .active a:hover{
+	text-decoration: underline;
+	color: red;
+	border-bottom: 2px solid red !important;
+} */
+a:hover{
+	text-decoration: underline;
+	color: red;
+	border-bottom: 2px solid rgb(228, 30, 30) !important;
+}
+.front, .back {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    transform-style: preserve-3d;
+    border-radius: 6px;
+}
+
+.front .inner, .back .inner {
+    height: 100%;
+    display: flex;
+    transform: translateZ(80px) scale(1);
+}
+
+.front {
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+
+    background-image: linear-gradient(to bottom,
+    rgba(255, 255, 255, 50),
+    rgba(255, 255, 255, 50)
+    100%);
+}
+
+.front:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 6px;
+    backface-visibility: hidden;
+}
+
+.front h2 {
+    grid-row: 2;
+    margin-bottom: 0.3em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #fff;
+    font-weight: 500;
+    text-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+}
+
+.back {
+    transform: rotateY(180deg);
+    background-color: #fff;
+    border: 2px solid #f0f0f0;
+}
+
+.back .info {
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: #355cc9;
+    grid-row: 3;
+}
+
+.back .info:not(:first-of-type):before {
+    content: '';
+    position: absolute;
+    left: -0.9em;
+    height: 18px;
+    width: 1px;
+    background-color: #ccc;
+}
+
+.back .info span {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.back .info i {
+    font-size: 1.2em;
+}
+
+.back .info .icon {
+    margin-left: 0.3em;
+}
+
+.back .info .icon span {
+    display: block;
+    margin-top: -0.25em;
+    font-size: 0.8em;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.back .description {
+    width: 100% !important;
+    grid-column: -1;
+    font-size: 0.86em;
+    border-radius: 5px;
+    font-weight: 600;
+    line-height: 1.4em;
+    overflow: auto;
+    color: #355cc9;
+    padding-right: 10px;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #859ddf;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #355cc9;
+}
+.bio {
+    margin: 15px;
+    color: #354067;
+}
+.songs{
+    margin-top: 15px;
+    color: #354067;
+}
+.bio #bio_title
+{
+    color: #354067;
+}
+.bio #bio_description
+{
+    font-size:12px ;
+}
+
+#songs{
+    margin: 15px;
+    color: #354067;
+}
+
+.card label {
+    cursor: pointer;
+}
+.caption {
+    position: absolute;
+    top: 80%;
+    left: 0;
+    width: 100%;
+    color: white;
+}
+.nav a{
+	margin: 0px;
+	text-decoration: none;
+}
+/*  */
+/* why us */
+a,
+a:active,
+a:focus {
+    color: #2E4F76;
+    text-decoration: none;
+    transition-timing-function: ease-in-out;
+    -ms-transition-timing-function: ease-in-out;
+    -moz-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    transition-duration: .2s;
+    -ms-transition-duration: .2s;
+    -moz-transition-duration: .2s;
+    -webkit-transition-duration: .2s;
+    -o-transition-duration: .2s;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+img {
+max-width: 100%;
+height: auto;
+}
+span, a, a:hover {
+display: inline-block;
+text-decoration: none;
+color: inherit;
+}
+.section-head {
+margin-bottom: 60px;
+}
+.section-head h4 {
+position: relative;
+padding:0;
+color:#3F6BA2;
+line-height: 1;
+letter-spacing:0.3px;
+font-size: 34px;
+font-weight: 700;  
+text-align:center;
+text-transform:none;
+margin-bottom:30px;
+}
+.section-head h4:before {
+content: '';
+width: 60px;
+height: 3px;
+background: #3F6BA2;
+position: absolute;
+left: 0px;
+bottom: -10px;
+right:0;  
+margin:0 auto;
+}
+.section-head h4 span {
+padding-top: 25px;	
+font-weight: 700;
+padding-bottom: 5px;
+color:#2f2f2f
+}
+p.service_text{
+color:#cccccc !important;
+font-size:16px;
+line-height:28px;
+text-align:center;    
+}
+.section-head p, p.awesome_line{
+color:#818181;
+font-size:16px;
+line-height:28px;
+text-align:center;  
+}
+
+.extra-text {
+font-size:34px;
+font-weight: 700;
+color:#3F6BA2;
+margin-bottom: 25px;
+position:relative;
+text-transform: none;
+}
+.extra-text::before {
+content: '';
+width: 60px;
+height: 3px;
+/* background: #f91942; */
+position: absolute;
+left: 0px;
+bottom: -10px;
+right: 0;
+margin: 0 auto;
+}
+.extra-text span {
+font-weight: 700;
+/* color:#f91942; */
+}
+.item {
+background: #fff;
+text-align: center;
+padding: 30px 25px;
+-webkit-box-shadow:0 0px 25px rgba(0, 0, 0, 0.07);
+box-shadow:0 0px 25px rgba(0, 0, 0, 0.07);
+border-radius: 20px;
+border:5px solid rgba(0, 0, 0, 0.07);
+margin-bottom: 30px;
+-webkit-transition: all .5s ease 0;
+transition: all .5s ease 0;
+transition: all 0.5s ease 0s;
+}
+.item:hover{
+background:#336C70;
+box-shadow:0 8px 20px 0px rgba(0, 0, 0, 0.2);
+-webkit-transition: all .5s ease 0;
+transition: all .5s ease 0;
+transition: all 0.5s ease 0s;
+}
+.item:hover .item, .item:hover span.icon{
+background:#fff;
+border-radius:10px;
+-webkit-transition: all .5s ease 0;
+transition: all .5s ease 0;
+transition: all 0.5s ease 0s;
+}
+.item:hover h6, .item:hover p{
+color:#fff;
+-webkit-transition: all .5s ease 0;
+transition: all .5s ease 0;
+transition: all 0.5s ease 0s;
+}
+.item .icon {
+font-size: 40px;
+margin-bottom:25px;
+/* color: #f91942;    */
+width: 90px;
+height: 90px;
+line-height: 96px;
+border-radius: 50px;
+}
+.item .feature_box_col_one{
+background:rgba(247, 198, 5, 0.20);
+/* color:#f91942 */
+}
+.item .feature_box_col_two{
+background:rgba(255, 77, 28, 0.15);
+color:#f91942
+}
+.item .feature_box_col_three{
+background:rgba(0, 147, 38, 0.15);
+/* color:#f91942 */
+}
+.item .feature_box_col_four{
+background:rgba(0, 108, 255, 0.15);
+/* color:#f91942 */
+}
+.item .feature_box_col_five{
+background:rgba(146, 39, 255, 0.15);
+/* color:#f91942 */
+}
+.item .feature_box_col_six{
+background:rgba(23, 39, 246, 0.15);
+/* color:#f91942 */
+}
+.item p{
+font-size:15px;
+line-height:26px;
+}
+.item h6 {
+margin-bottom:20px;
+color:#2f2f2f;
+}
+.mission p {
+margin-bottom: 10px;
+font-size: 15px;
+line-height: 28px;
+font-weight: 500;
+}
+.mission i {
+display: inline-block;
+width: 50px;
+height: 50px;
+line-height: 50px;
+text-align: center;
+/* background: #f91942; */
+border-radius: 50%;
+color: #fff;
+font-size: 25px;
+}
+.mission .small-text {
+margin-left: 10px;
+font-size: 13px;
+color: #666;
+}
+.skills {
+padding-top:0px;
+}
+.skills .prog-item {
+margin-bottom: 25px;
+}
+.skills .prog-item:last-child {
+margin-bottom: 0;
+}
+.skills .prog-item p {
+font-weight: 500;
+font-size: 15px;
+margin-bottom: 10px;
+}
+.skills .prog-item .skills-progress {
+width: 100%;
+height: 10px;
+background: #e0e0e0;
+border-radius:20px;
+position: relative;
+}
+.skills .prog-item .skills-progress span {
+position: absolute;
+left: 0;
+top: 0;
+height: 100%;
+/* background: #f91942; */
+width: 10%;
+border-radius: 10px;
+-webkit-transition: all 1s;
+transition: all 1s;
+}
+.skills .prog-item .skills-progress span:after {
+content: attr(data-value);
+position: absolute;
+top: -5px;
+right: 0;
+font-size: 10px;
+font-weight:600;    
+color: #fff;
+background:rgba(0, 0, 0, 0.9);
+padding: 3px 7px;
+border-radius: 30px;
+}
+
+.icons{
+  border-radius: 50px;
+  width: 180px;
+  height: 110px;
+margin-bottom: 30px;
+}
+/* ABOUT US */
+.about{
+	cursor: pointer;
+	background-color: #47939A;
+	color: #FFFFFF;
+	padding-top: 20px;
+	padding-bottom: 30px;
+}
+.about h1 {
+	padding: 10px 0;
+	margin-bottom: 20px;
+}
+.about h2 {
+	opacity: .8;
+}
+.about span {
+	display: block;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	margin:auto;
+	border-radius:50%;  
+	font-size: 40px;
+	color: #FFFFFF;
+	opacity: 0.7;
+	background-color: #336B70;
+	border: 2px solid #275054;
+
+	-webkit-transition:all .5s ease;
+ 	-moz-transition:all .5s ease;
+ 	/* os-transition:all .5s ease; */
+ 	transition:all .5s ease;
+}
+
+.about-item:hover span{
+	opacity: 1;	
+	border: 2px solid #204346;
+	font-size: 42px;
+	-webkit-transform: scale(1.1,1.1) rotate(360deg) ;
+	-moz-transform: scale(1.1,1.1) rotate(360deg) ;
+	-o-transform: scale(1.1,1.1) rotate(360deg) ;
+	transform: scale(1.1,1.1) rotate(360deg) ;
+}
+.about-item:hover h2{
+	opacity: 1;
+	-webkit-transform: scale(1.1,1.1)  ;
+	-moz-transform: scale(1.1,1.1)  ;
+	-o-transform: scale(1.1,1.1)  ;
+	transform: scale(1.1,1.1) ;
+}
+.about .lead{
+	color: #0D1B1C;
+	font-size: 14px;
+  font-weight: bold;
+  text-align: left;
+}
+.about .lead1{
+	color: #0D1B1C;
+	font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+@media screen and (max-width: 1000px) {
+	.gal { 
+		margin-left: 10px;
+	}
+  }
+  @media screen and (max-width: 1300px) {
+	.gal { 
+		margin-left: 100px;
+	}
+  }
+
+/* try */
+/* #but{
+	background-color: #47939A; /* BLUE */
+	/* border: none;
+	color: rgb(255, 255, 255);
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+#discography{
+	padding: 40px;
+	padding-bottom: 20px;
+	background-color: rgb(237, 244, 245);
+}
+.textc{
+	text-align: center;
+	padding: 40px;
+	font-weight: 700;
+	font-size: 40px;
+	color: #3F6BA2;
+	text-decoration: underline #f91942;
+}
+a{
+    color: #354067;
+    letter-spacing:1px;
+	margin-left: 20px;
+	text-decoration: none;
+} */ 
+/* gallery */
+
+  
+  .cards {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	/* margin-top: -300px; */
+	position: relative;
+  }
+  
+  .card {
+	cursor: pointer;
+	background-color: transparent;
+	height: 300px;
+	perspective: 1000px;
+	margin: 1rem;
+  }
+  
+  .card h3 {
+	border-bottom: 1px #fff solid;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 1.6rem;
+	word-spacing: 3px;
+  }
+  
+  .card p{
+	opacity: 0.75;
+	font-size: 0.8rem;
+	line-height: 1.4;
+  }
+  
+  .card img {
+	width: 360px;
+	height: 300px;
+	object-fit: cover;
+	border-radius: 3px;
+  }
+  
+  .card-inner {
+	position: relative;
+	width: 360px;
+	height: 100%;
+	transition: transform 0.9s;
+	transform-style: preserve-3d;
+  }
+  
+  .card:hover .card-inner {
+	transform: rotateY(180deg);
+  }
+  
+  .card-front,
+  .card-back {
+	position: absolute;
+	width: 360px;
+	height: 100%;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+  }
+  
+  .card-back {
+	background-color: rgb(250, 175, 175);
+	color: #fff;
+	padding: 1.5rem;
+	transform: rotateY(180deg);
+  }
+  .ga{
+	  text-align: center;
+	  padding: 20px 10px;
+	  padding-top: 80px;
+	  
+	  text-decoration: underline rgb(248, 104, 104) solid ;
+  }
+  
+/* gallery end */
+/* .testim {
+	margin-top: 400px;
+	width: 100%;
+	height: 700px;
+	position: relative;
+	background-color: rgb(15, 159, 179);
+	 top: 50%; 
+	-webkit-transform: translatey(-50%);
+	-moz-transform: translatey(-50%);
+	-ms-transform: translatey(-50%);
+	-o-transform: translatey(-50%);
+	transform: translatey(-50%);
+}
+.tes{
+	padding-top: 100px;
+	padding-bottom: 50px;
+  text-align: center;
+}
+.testim .wrap {
+position: relative;
+width: 100%;
+
+ max-width: 1020px; 
+padding: 40px 20px;
+ margin: auto; 
+}
+
+.testim .arrow {
+display: block;
+position: absolute;
+color: rgb(14, 13, 13);
+cursor: pointer;
+font-size: 2em;
+top: 50%;
+-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+-webkit-transition: all .3s ease-in-out;    
+-ms-transition: all .3s ease-in-out;    
+-moz-transition: all .3s ease-in-out;    
+-o-transition: all .3s ease-in-out;    
+transition: all .3s ease-in-out;
+padding: 5px;
+z-index: 22222222;
+}
+
+.testim .arrow:before {
+	cursor: pointer;
+}
+
+.testim .arrow:hover {
+color: #ea830e;
+}
+
+
+.testim .arrow.left {
+left: 10px;
+}
+
+.testim .arrow.right {
+right: 10px;
+}
+
+.testim .dots {
+text-align: center;
+position: absolute;
+width: 100%;
+bottom: 60px;
+left: 0;
+display: block;
+z-index: 3333;
+	height: 12px;
+}
+
+.testim .dots .dot {
+list-style-type: none;
+display: inline-block;
+width: 12px;
+height: 12px;
+border-radius: 50%;
+border: 1px solid white;
+margin: 0 10px;
+cursor: pointer;
+-webkit-transition: all .5s ease-in-out;    
+-ms-transition: all .5s ease-in-out;    
+-moz-transition: all .5s ease-in-out;    
+-o-transition: all .5s ease-in-out;    
+transition: all .5s ease-in-out;
+	position: relative;
+}
+
+.testim .dots .dot.active,
+.testim .dots .dot:hover {
+background: #ea830e;
+border-color: #ea830e;
+}
+
+.testim .dots .dot.active {
+-webkit-animation: testim-scale .5s ease-in-out forwards;   
+-moz-animation: testim-scale .5s ease-in-out forwards;   
+-ms-animation: testim-scale .5s ease-in-out forwards;   
+-o-animation: testim-scale .5s ease-in-out forwards;   
+animation: testim-scale .5s ease-in-out forwards;   
+}
+
+.testim .cont {
+position: relative;
+	overflow: hidden;
+}
+
+.testim .cont > div {
+text-align: center;
+position: absolute;
+top: 0;
+left: 0;
+padding: 0 0 70px 0;
+opacity: 0;
+}
+
+.testim .cont > div.inactive {
+opacity: 1;
+}
+
+
+.testim .cont > div.active {
+position: relative;
+opacity: 1;
+}
+
+
+.testim .cont div .img img {
+display: block;
+width: 100px;
+height: 100px;
+margin: auto;
+border-radius: 50%;
+}
+
+.testim .cont div h2 {
+color: #ea830e;
+font-size: 1em;
+margin: 15px 0;
+}
+
+.testim .cont div p {
+font-size: 1.15em;
+color: rgb(14, 13, 13);
+width: 80%;
+margin: auto;
+}
+
+.testim .cont div.active .img img {
+-webkit-animation: testim-show .5s ease-in-out forwards;            
+-moz-animation: testim-show .5s ease-in-out forwards;            
+-ms-animation: testim-show .5s ease-in-out forwards;            
+-o-animation: testim-show .5s ease-in-out forwards;            
+animation: testim-show .5s ease-in-out forwards;            
+}
+
+.testim .cont div.active h2 {
+-webkit-animation: testim-content-in .4s ease-in-out forwards;    
+-moz-animation: testim-content-in .4s ease-in-out forwards;    
+-ms-animation: testim-content-in .4s ease-in-out forwards;    
+-o-animation: testim-content-in .4s ease-in-out forwards;    
+animation: testim-content-in .4s ease-in-out forwards;    
+}
+
+.testim .cont div.active p {
+-webkit-animation: testim-content-in .5s ease-in-out forwards;    
+-moz-animation: testim-content-in .5s ease-in-out forwards;    
+-ms-animation: testim-content-in .5s ease-in-out forwards;    
+-o-animation: testim-content-in .5s ease-in-out forwards;    
+animation: testim-content-in .5s ease-in-out forwards;    
+}
+
+.testim .cont div.inactive .img img {
+-webkit-animation: testim-hide .5s ease-in-out forwards;            
+-moz-animation: testim-hide .5s ease-in-out forwards;            
+-ms-animation: testim-hide .5s ease-in-out forwards;            
+-o-animation: testim-hide .5s ease-in-out forwards;            
+animation: testim-hide .5s ease-in-out forwards;            
+}
+
+.testim .cont div.inactive h2 {
+-webkit-animation: testim-content-out .4s ease-in-out forwards;        
+-moz-animation: testim-content-out .4s ease-in-out forwards;        
+-ms-animation: testim-content-out .4s ease-in-out forwards;        
+-o-animation: testim-content-out .4s ease-in-out forwards;        
+animation: testim-content-out .4s ease-in-out forwards;        
+}
+
+.testim .cont div.inactive p {
+-webkit-animation: testim-content-out .5s ease-in-out forwards;    
+-moz-animation: testim-content-out .5s ease-in-out forwards;    
+-ms-animation: testim-content-out .5s ease-in-out forwards;    
+-o-animation: testim-content-out .5s ease-in-out forwards;    
+animation: testim-content-out .5s ease-in-out forwards;    
+}
+
+@-webkit-keyframes testim-scale {
+0% {
+	-webkit-box-shadow: 0px 0px 0px 0px rgb(17, 16, 16);
+	box-shadow: 0px 0px 0px 0px rgb(14, 13, 13);
+}
+
+35% {
+	-webkit-box-shadow: 0px 0px 10px 5px #eee;        
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	-webkit-box-shadow: 0px 0px 10px 5px #ea830e;        
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	-webkit-box-shadow: 0px 0px 0px 0px #ea830e;        
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@-moz-keyframes testim-scale {
+0% {
+	-moz-box-shadow: 0px 0px 0px 0px #eee;
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	-moz-box-shadow: 0px 0px 10px 5px #eee;        
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	-moz-box-shadow: 0px 0px 10px 5px #ea830e;        
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	-moz-box-shadow: 0px 0px 0px 0px #ea830e;        
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@-ms-keyframes testim-scale {
+0% {
+	-ms-box-shadow: 0px 0px 0px 0px #eee;
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	-ms-box-shadow: 0px 0px 10px 5px #eee;        
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	-ms-box-shadow: 0px 0px 10px 5px #ea830e;        
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	-ms-box-shadow: 0px 0px 0px 0px #ea830e;        
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@-o-keyframes testim-scale {
+0% {
+	-o-box-shadow: 0px 0px 0px 0px #eee;
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	-o-box-shadow: 0px 0px 10px 5px #eee;        
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	-o-box-shadow: 0px 0px 10px 5px #ea830e;        
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	-o-box-shadow: 0px 0px 0px 0px #ea830e;        
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@keyframes testim-scale {
+0% {
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@-webkit-keyframes testim-content-in {
+from {
+	opacity: 0;
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	-webkit-transform: translateY(0);        
+	transform: translateY(0);        
+}
+}
+
+@-moz-keyframes testim-content-in {
+from {
+	opacity: 0;
+	-moz-transform: translateY(100%);
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	-moz-transform: translateY(0);        
+	transform: translateY(0);        
+}
+}
+
+@-ms-keyframes testim-content-in {
+from {
+	opacity: 0;
+	-ms-transform: translateY(100%);
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	-ms-transform: translateY(0);        
+	transform: translateY(0);        
+}
+}
+
+@-o-keyframes testim-content-in {
+from {
+	opacity: 0;
+	-o-transform: translateY(100%);
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	-o-transform: translateY(0);        
+	transform: translateY(0);        
+}
+}
+
+@keyframes testim-content-in {
+from {
+	opacity: 0;
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	transform: translateY(0);        
+}
+}
+
+@-webkit-keyframes testim-content-out {
+from {
+	opacity: 1;
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	-webkit-transform: translateY(-100%);        
+	transform: translateY(-100%);        
+}
+}
+
+@-moz-keyframes testim-content-out {
+from {
+	opacity: 1;
+	-moz-transform: translateY(0);
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	-moz-transform: translateY(-100%);        
+	transform: translateY(-100%);        
+}
+}
+
+@-ms-keyframes testim-content-out {
+from {
+	opacity: 1;
+	-ms-transform: translateY(0);
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	-ms-transform: translateY(-100%);        
+	transform: translateY(-100%);        
+}
+}
+
+@-o-keyframes testim-content-out {
+from {
+	opacity: 1;
+	-o-transform: translateY(0);
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	transform: translateY(-100%);        
+	transform: translateY(-100%);        
+}
+}
+
+@keyframes testim-content-out {
+from {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	transform: translateY(-100%);        
+}
+}
+
+@-webkit-keyframes testim-show {
+from {
+	opacity: 0;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	-webkit-transform: scale(1);       
+	transform: scale(1);       
+}
+}
+
+@-moz-keyframes testim-show {
+from {
+	opacity: 0;
+	-moz-transform: scale(0);
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	-moz-transform: scale(1);       
+	transform: scale(1);       
+}
+}
+
+@-ms-keyframes testim-show {
+from {
+	opacity: 0;
+	-ms-transform: scale(0);
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	-ms-transform: scale(1);       
+	transform: scale(1);       
+}
+}
+
+@-o-keyframes testim-show {
+from {
+	opacity: 0;
+	-o-transform: scale(0);
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	-o-transform: scale(1);       
+	transform: scale(1);       
+}
+}
+
+@keyframes testim-show {
+from {
+	opacity: 0;
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	transform: scale(1);       
+}
+}
+
+@-webkit-keyframes testim-hide {
+from {
+	opacity: 1;
+	-webkit-transform: scale(1);       
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+}
+}
+
+@-moz-keyframes testim-hide {
+from {
+	opacity: 1;
+	-moz-transform: scale(1);       
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	-moz-transform: scale(0);
+	transform: scale(0);
+}
+}
+
+@-ms-keyframes testim-hide {
+from {
+	opacity: 1;
+	-ms-transform: scale(1);       
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	-ms-transform: scale(0);
+	transform: scale(0);
+}
+}
+
+@-o-keyframes testim-hide {
+from {
+	opacity: 1;
+	-o-transform: scale(1);       
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	-o-transform: scale(0);
+	transform: scale(0);
+}
+}
+
+@keyframes testim-hide {
+from {
+	opacity: 1;
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	transform: scale(0);
+}
+}
+
+@media all and (max-width: 300px) {
+body {
+	font-size: 14px;
+}
+}
+
+@media all and (max-width: 500px) {
+.testim .arrow {
+	font-size: 1.5em;
+}
+
+.testim .cont div p {
+	line-height: 25px;
+}
+
+} */
+/* .button1{
+	margin-left: 120px;
+	margin-top: 30px;
+	color: rgb(247, 244, 244);
+	background-color: rgb(248, 79, 116);
+} */
+#button {
+	margin-left: 110px;
+    width: 6em;
+    border: 2px solid green;
+    background: #ffe;
+    border-radius: 5px;
+}
+#button .a1 {
+    display: block;
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+}
+a1:hover {
+    color: red;
+    background: #eff;
+}
+.testim {
+	width: 100%;
+	position: absolute;
+	-webkit-transform: translatey(-50%);
+	-moz-transform: translatey(-50%);
+	-ms-transform: translatey(-50%);
+	-o-transform: translatey(-50%);
+	transform: translatey(-50%);
+}
+
+.testim .wrap {
+position: relative;
+width: 100%;
+max-width: 1020px;
+padding: 40px 20px;
+margin: auto;
+}
+
+.testim .arrow {
+display: block;
+position: absolute;
+color: #eee;
+cursor: pointer;
+font-size: 2em;
+top: 50%;
+-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-moz-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	transform: translateY(-50%);
+-webkit-transition: all .3s ease-in-out;    
+-ms-transition: all .3s ease-in-out;    
+-moz-transition: all .3s ease-in-out;    
+-o-transition: all .3s ease-in-out;    
+transition: all .3s ease-in-out;
+padding: 5px;
+z-index: 22222222;
+}
+
+.testim .arrow:before {
+	cursor: pointer;
+}
+
+.testim .arrow:hover {
+color: #ea830e;
+}
+
+
+.testim .arrow.left {
+left: 10px;
+}
+
+.testim .arrow.right {
+right: 10px;
+}
+
+.testim .dots {
+text-align: center;
+position: absolute;
+width: 100%;
+bottom: 60px;
+left: 0;
+display: block;
+z-index: 3333;
+	height: 12px;
+}
+
+.testim .dots .dot {
+list-style-type: none;
+display: inline-block;
+width: 12px;
+height: 12px;
+border-radius: 50%;
+border: 1px solid #eee;
+margin: 0 10px;
+cursor: pointer;
+-webkit-transition: all .5s ease-in-out;    
+-ms-transition: all .5s ease-in-out;    
+-moz-transition: all .5s ease-in-out;    
+-o-transition: all .5s ease-in-out;    
+transition: all .5s ease-in-out;
+	position: relative;
+}
+
+.testim .dots .dot.active,
+.testim .dots .dot:hover {
+background: #ea830e;
+border-color: #ea830e;
+}
+
+.testim .dots .dot.active {
+-webkit-animation: testim-scale .5s ease-in-out forwards;   
+-moz-animation: testim-scale .5s ease-in-out forwards;   
+-ms-animation: testim-scale .5s ease-in-out forwards;   
+-o-animation: testim-scale .5s ease-in-out forwards;   
+animation: testim-scale .5s ease-in-out forwards;   
+}
+
+.testim .cont {
+position: relative;
+	overflow: hidden;
+}
+
+.testim .cont > div {
+text-align: center;
+position: absolute;
+top: 0;
+left: 0;
+padding: 0 0 70px 0;
+opacity: 0;
+}
+
+.testim .cont > div.inactive {
+opacity: 1;
+}
+
+
+.testim .cont > div.active {
+position: relative;
+opacity: 1;
+}
+
+
+.testim .cont div .img img {
+display: block;
+width: 100px;
+height: 100px;
+margin: auto;
+border-radius: 50%;
+}
+
+.testim .cont div h2 {
+color: #ea830e;
+font-size: 1em;
+margin: 15px 0;
+}
+
+.testim .cont div p {
+font-size: 1.15em;
+color: #eee;
+width: 80%;
+margin: auto;
+}
+
+.testim .cont div.active .img img {
+-webkit-animation: testim-show .5s ease-in-out forwards;            
+-moz-animation: testim-show .5s ease-in-out forwards;            
+-ms-animation: testim-show .5s ease-in-out forwards;            
+-o-animation: testim-show .5s ease-in-out forwards;            
+animation: testim-show .5s ease-in-out forwards;            
+}
+
+.testim .cont div.active h2 {
+-webkit-animation: testim-content-in .4s ease-in-out forwards;    
+-moz-animation: testim-content-in .4s ease-in-out forwards;    
+-ms-animation: testim-content-in .4s ease-in-out forwards;    
+-o-animation: testim-content-in .4s ease-in-out forwards;    
+animation: testim-content-in .4s ease-in-out forwards;    
+}
+
+.testim .cont div.active p {
+-webkit-animation: testim-content-in .5s ease-in-out forwards;    
+-moz-animation: testim-content-in .5s ease-in-out forwards;    
+-ms-animation: testim-content-in .5s ease-in-out forwards;    
+-o-animation: testim-content-in .5s ease-in-out forwards;    
+animation: testim-content-in .5s ease-in-out forwards;    
+}
+
+.testim .cont div.inactive .img img {
+-webkit-animation: testim-hide .5s ease-in-out forwards;            
+-moz-animation: testim-hide .5s ease-in-out forwards;            
+-ms-animation: testim-hide .5s ease-in-out forwards;            
+-o-animation: testim-hide .5s ease-in-out forwards;            
+animation: testim-hide .5s ease-in-out forwards;            
+}
+
+.testim .cont div.inactive h2 {
+-webkit-animation: testim-content-out .4s ease-in-out forwards;        
+-moz-animation: testim-content-out .4s ease-in-out forwards;        
+-ms-animation: testim-content-out .4s ease-in-out forwards;        
+-o-animation: testim-content-out .4s ease-in-out forwards;        
+animation: testim-content-out .4s ease-in-out forwards;        
+}
+
+.testim .cont div.inactive p {
+-webkit-animation: testim-content-out .5s ease-in-out forwards;    
+-moz-animation: testim-content-out .5s ease-in-out forwards;    
+-ms-animation: testim-content-out .5s ease-in-out forwards;    
+-o-animation: testim-content-out .5s ease-in-out forwards;    
+animation: testim-content-out .5s ease-in-out forwards;    
+}
+
+@-webkit-keyframes testim-scale {
+0% {
+	-webkit-box-shadow: 0px 0px 0px 0px #eee;
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	-webkit-box-shadow: 0px 0px 10px 5px #eee;        
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	-webkit-box-shadow: 0px 0px 10px 5px #ea830e;        
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	-webkit-box-shadow: 0px 0px 0px 0px #ea830e;        
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@-moz-keyframes testim-scale {
+0% {
+	-moz-box-shadow: 0px 0px 0px 0px #eee;
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	-moz-box-shadow: 0px 0px 10px 5px #eee;        
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	-moz-box-shadow: 0px 0px 10px 5px #ea830e;        
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	-moz-box-shadow: 0px 0px 0px 0px #ea830e;        
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@-ms-keyframes testim-scale {
+0% {
+	-ms-box-shadow: 0px 0px 0px 0px #eee;
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	-ms-box-shadow: 0px 0px 10px 5px #eee;        
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	-ms-box-shadow: 0px 0px 10px 5px #ea830e;        
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	-ms-box-shadow: 0px 0px 0px 0px #ea830e;        
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@-o-keyframes testim-scale {
+0% {
+	-o-box-shadow: 0px 0px 0px 0px #eee;
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	-o-box-shadow: 0px 0px 10px 5px #eee;        
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	-o-box-shadow: 0px 0px 10px 5px #ea830e;        
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	-o-box-shadow: 0px 0px 0px 0px #ea830e;        
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@keyframes testim-scale {
+0% {
+	box-shadow: 0px 0px 0px 0px #eee;
+}
+
+35% {
+	box-shadow: 0px 0px 10px 5px #eee;        
+}
+
+70% {
+	box-shadow: 0px 0px 10px 5px #ea830e;        
+}
+
+100% {
+	box-shadow: 0px 0px 0px 0px #ea830e;        
+}
+}
+
+@-webkit-keyframes testim-content-in {
+from {
+	opacity: 0;
+	-webkit-transform: translateY(100%);
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	-webkit-transform: translateY(0);        
+	transform: translateY(0);        
+}
+}
+
+@-moz-keyframes testim-content-in {
+from {
+	opacity: 0;
+	-moz-transform: translateY(100%);
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	-moz-transform: translateY(0);        
+	transform: translateY(0);        
+}
+}
+
+@-ms-keyframes testim-content-in {
+from {
+	opacity: 0;
+	-ms-transform: translateY(100%);
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	-ms-transform: translateY(0);        
+	transform: translateY(0);        
+}
+}
+
+@-o-keyframes testim-content-in {
+from {
+	opacity: 0;
+	-o-transform: translateY(100%);
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	-o-transform: translateY(0);        
+	transform: translateY(0);        
+}
+}
+
+@keyframes testim-content-in {
+from {
+	opacity: 0;
+	transform: translateY(100%);
+}
+
+to {
+	opacity: 1;
+	transform: translateY(0);        
+}
+}
+
+@-webkit-keyframes testim-content-out {
+from {
+	opacity: 1;
+	-webkit-transform: translateY(0);
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	-webkit-transform: translateY(-100%);        
+	transform: translateY(-100%);        
+}
+}
+
+@-moz-keyframes testim-content-out {
+from {
+	opacity: 1;
+	-moz-transform: translateY(0);
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	-moz-transform: translateY(-100%);        
+	transform: translateY(-100%);        
+}
+}
+
+@-ms-keyframes testim-content-out {
+from {
+	opacity: 1;
+	-ms-transform: translateY(0);
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	-ms-transform: translateY(-100%);        
+	transform: translateY(-100%);        
+}
+}
+
+@-o-keyframes testim-content-out {
+from {
+	opacity: 1;
+	-o-transform: translateY(0);
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	transform: translateY(-100%);        
+	transform: translateY(-100%);        
+}
+}
+
+@keyframes testim-content-out {
+from {
+	opacity: 1;
+	transform: translateY(0);
+}
+
+to {
+	opacity: 0;
+	transform: translateY(-100%);        
+}
+}
+
+@-webkit-keyframes testim-show {
+from {
+	opacity: 0;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	-webkit-transform: scale(1);       
+	transform: scale(1);       
+}
+}
+
+@-moz-keyframes testim-show {
+from {
+	opacity: 0;
+	-moz-transform: scale(0);
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	-moz-transform: scale(1);       
+	transform: scale(1);       
+}
+}
+
+@-ms-keyframes testim-show {
+from {
+	opacity: 0;
+	-ms-transform: scale(0);
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	-ms-transform: scale(1);       
+	transform: scale(1);       
+}
+}
+
+@-o-keyframes testim-show {
+from {
+	opacity: 0;
+	-o-transform: scale(0);
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	-o-transform: scale(1);       
+	transform: scale(1);       
+}
+}
+
+@keyframes testim-show {
+from {
+	opacity: 0;
+	transform: scale(0);
+}
+
+to {
+	opacity: 1;
+	transform: scale(1);       
+}
+}
+
+@-webkit-keyframes testim-hide {
+from {
+	opacity: 1;
+	-webkit-transform: scale(1);       
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+}
+}
+
+@-moz-keyframes testim-hide {
+from {
+	opacity: 1;
+	-moz-transform: scale(1);       
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	-moz-transform: scale(0);
+	transform: scale(0);
+}
+}
+
+@-ms-keyframes testim-hide {
+from {
+	opacity: 1;
+	-ms-transform: scale(1);       
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	-ms-transform: scale(0);
+	transform: scale(0);
+}
+}
+
+@-o-keyframes testim-hide {
+from {
+	opacity: 1;
+	-o-transform: scale(1);       
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	-o-transform: scale(0);
+	transform: scale(0);
+}
+}
+
+@keyframes testim-hide {
+from {
+	opacity: 1;
+	transform: scale(1);       
+}
+
+to {
+	opacity: 0;
+	transform: scale(0);
+}
+}
+
+@media all and (max-width: 300px) {
+body {
+	font-size: 14px;
+}
+}
+
+@media all and (max-width: 500px) {
+.testim .arrow {
+	font-size: 1.5em;
+}
+
+.testim .cont div p {
+	line-height: 25px;
+}
+
+}
+.sr-only{position: absolute !important;height: 1px; width: 1px;border: 0; padding: 0;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);pointer-events:none;}
+
+.tfeature_btn{margin-top:110px;background:transparent;border:2px solid #000;width:40px;height:40px;line-height:36px;border-radius:50%;color:#000;text-align:center;font-size:17px;}
+ 
+#tfeature-images{position:relative;height:250px;}
+.tfeature-images_item{width:250px;height:250px;border-radius:50%;background-color:#000;display:none;overflow:hidden;position:absolute;top:0;z-index:1;left:50%;margin-left:-125px;}
+.tfeature-images_item.left{margin-left:-325px;} 
+.tfeature-images_item.right{margin-left:50px;}
+.tfeature-images_item.center{z-index:9;}
+.tfeature-images_item.left,.tfeature-images_item.right,.tfeature-images_item.center{display:block;}
+.tfeature-images_item.left img,.tfeature-images_item.right img{opacity:.4;}
+#tfeature-testimonial{text-align:center;}
+#tfeature-testimonial_content{font-size:2rem;padding:1rem 0;}
+#tfeature-testimonial_author{font-style:italic;
+font-size: 30px;
+color: rgb(5, 5, 63);
+margin-bottom: 20px;
+}
+
+/*utils*/
+.te{
+	text-align: center;
+	margin-top: 50px;
+	padding-top: 70px;
+	color: rgb(9, 9, 128);
+	text-decoration: underline rgb(230, 103, 103) solid;
+}
+.container12 {width: 100%; 
+	
+	background-color: rgb(247, 252, 255);
+height: 180%;	max-width:100%; margin:0 auto;}
+img{max-width:100%;}
+.columns{
+    display: -ms-flexbox;
+    -ms-flex-wrap: wrap;
+    -ms-flex-direction: row;
+    padding: 2rem 0;
+    display:flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+} 
+.col-1,.col-9{flex: 0 0 auto;padding:10px}
+.col-1:last-of-type{text-align:right;}
+.col-1 {flex-basis: 8.333%;max-width: 8.333%;}
+.col-9 {flex-basis: 75%;max-width: 75%;}
+
+@media (max-width: 800px){
+  .tfeature-images_item.left,
+  .tfeature-images_item.right{
+    display:none;
+  }
+  .col-1 {flex-basis: 12%;max-width: 12%;}
+.col-9 {flex-basis: 55%;max-width: 55%;}
+  .col-1,.col-9{padding:10px 0;}
+}
+.h {
+	font-family: "Montserrat Medium";
+	position: relative;
+	margin-left: 400px;
+	margin-top: 80px;
+	color: black;
+	max-width: 40ch;
+	text-align: center;
+	transform: scale(0.94);
+	animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+  }
+  @keyframes scale {
+	100% {
+	  transform: scale(1);
+	}
+  }
+  
+  span {
+	display: inline-block;
+	opacity: 0;
+	filter: blur(4px);
+  }
+  
+  span:nth-child(1) {
+	animation: fade-in 0.8s 0.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(2) {
+	animation: fade-in 0.8s 0.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(3) {
+	animation: fade-in 0.8s 0.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(4) {
+	animation: fade-in 0.8s 0.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(5) {
+	animation: fade-in 0.8s 0.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(6) {
+	animation: fade-in 0.8s 0.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(7) {
+	animation: fade-in 0.8s 0.7s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(8) {
+	animation: fade-in 0.8s 0.8s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(9) {
+	animation: fade-in 0.8s 0.9s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(10) {
+	animation: fade-in 0.8s 1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(11) {
+	animation: fade-in 0.8s 1.1s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(12) {
+	animation: fade-in 0.8s 1.2s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(13) {
+	animation: fade-in 0.8s 1.3s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(14) {
+	animation: fade-in 0.8s 1.4s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(15) {
+	animation: fade-in 0.8s 1.5s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(16) {
+	animation: fade-in 0.8s 1.6s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(17) {
+	animation: fade-in 0.8s 1.7s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  span:nth-child(18) {
+	animation: fade-in 0.8s 1.8s forwards cubic-bezier(0.11, 0, 0.5, 0);
+  }
+  
+  @keyframes fade-in {
+	100% {
+	  opacity: 1;
+	  filter: blur(0);
+	}
+  }
+  ul {
+    margin: 0px;
+    padding: 0px;
+}
+.footer-section {
+  background: #151414;
+  position: relative;
+}
+.footer-cta {
+  border-bottom: 1px solid #373636;
+}
+.single-cta i {
+  color: #ff5e14;
+  font-size: 30px;
+  float: left;
+  margin-top: 8px;
+}
+.cta-text {
+  padding-left: 15px;
+  display: inline-block;
+}
+.cta-text h4 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.cta-text span {
+  color: #757575;
+  font-size: 15px;
+}
+.footer-content {
+  position: relative;
+  z-index: 2;
+}
+.footer-pattern img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 330px;
+  background-size: cover;
+  background-position: 100% 100%;
+}
+.footer-logo {
+  margin-bottom: 30px;
+}
+.footer-logo img {
+    max-width: 200px;
+}
+.footer-text p {
+  margin-bottom: 14px;
+  font-size: 14px;
+      color: #7e7e7e;
+  line-height: 28px;
+}
+.footer-social-icon span {
+  color: #fff;
+  display: block;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 20px;
+}
+.footer-social-icon .a1 {
+  color: #fff;
+  font-size: 16px;
+  margin-right: 15px;
+}
+.footer-social-icon i {
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 38px;
+  border-radius: 50%;
+}
+.facebook-bg{
+  background: #3B5998;
+}
+.twitter-bg{
+  background: #55ACEE;
+}
+.google-bg{
+  background: #DD4B39;
+}
+.footer-widget-heading h3 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 40px;
+  position: relative;
+}
+.footer-widget-heading h3::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -15px;
+  height: 2px;
+  width: 50px;
+  background: #ff5e14;
+}
+.footer-widget ul li {
+  display: inline-block;
+  float: left;
+  width: 50%;
+  margin-bottom: 12px;
+}
+.footer-widget ul li .a1:hover{
+  color: #ff5e14;
+}
+.footer-widget ul li .a1 {
+  color: #878787;
+  text-transform: capitalize;
+}
+.subscribe-form {
+  position: relative;
+  overflow: hidden;
+}
+.subscribe-form input {
+  width: 100%;
+  padding: 14px 28px;
+  background: #2E2E2E;
+  border: 1px solid #2E2E2E;
+  color: #fff;
+}
+.subscribe-form button {
+    position: absolute;
+    right: 0;
+    background: #ff5e14;
+    padding: 13px 20px;
+    border: 1px solid #ff5e14;
+    top: 0;
+}
+.subscribe-form button i {
+  color: #fff;
+  font-size: 22px;
+  transform: rotate(-6deg);
+}
+.copyright-area{
+  background: #202020;
+  padding: 25px 0;
+}
+.copyright-text p {
+  margin: 0;
+  font-size: 14px;
+  color: #878787;
+}
+.copyright-text p .a1{
+  color: #ff5e14;
+}
+.footer-menu li {
+  display: inline-block;
+  margin-left: 20px;
+}
+.footer-menu li:hover .a1{
+  color: #ff5e14;
+}
+.footer-menu li .a1 {
+  font-size: 14px;
+  color: #878787;
+}
+.new_footer_area {
+    background: #fbfbfd;
+}
+
+
+.new_footer_top {
+    padding: 120px 0px 270px;
+    position: relative;
+      overflow-x: hidden;
+}
+.new_footer_area .footer_bottom {
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+.footer_bottom {
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    color: #7f88a6;
+    padding: 27px 0px;
+}
+.new_footer_top .company_widget p {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 28px;
+    color: #6a7695;
+    margin-bottom: 20px;
+}
+.new_footer_top .company_widget .f_subscribe_two .btn_get {
+    border-width: 1px;
+    margin-top: 20px;
+}
+.btn_get_two:hover {
+    background: transparent;
+    color: #5e2ced;
+}
+.btn_get:hover {
+    color: #fff;
+    background: #6754e2;
+    border-color: #6754e2;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.a1:hover, .a1:focus, .btn:hover, .btn:focus, button:hover, button:focus {
+    text-decoration: none;
+    outline: none;
+}
+
+
+
+.new_footer_top .f_widget.about-widget .f_list li .a1:hover {
+    color: #5e2ced;
+}
+.new_footer_top .f_widget.about-widget .f_list li {
+    margin-bottom: 11px;
+}
+.f_widget.about-widget .f_list li:last-child {
+    margin-bottom: 0px;
+}
+.f_widget.about-widget .f_list li {
+    margin-bottom: 15px;
+}
+.f_widget.about-widget .f_list {
+    margin-bottom: 0px;
+}
+.new_footer_top .f_social_icon .a1 {
+    width: 44px;
+    height: 44px;
+    line-height: 43px;
+    background: transparent;
+    border: 1px solid #e2e2eb;
+    font-size: 24px;
+}
+.f_social_icon .a1 {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    font-size: 14px;
+    line-height: 45px;
+    color: #858da8;
+    display: inline-block;
+    background: #ebeef5;
+    text-align: center;
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.ti-facebook:before {
+    content: "\e741";
+}
+.ti-twitter-alt:before {
+    content: "\e74b";
+}
+.ti-vimeo-alt:before {
+    content: "\e74a";
+}
+.ti-pinterest:before {
+    content: "\e731";
+}
+
+.btn_get_two {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: #5e2ced;
+    border-color: #5e2ced;
+    color: #fff;
+}
+
+.btn_get_two:hover {
+    background: transparent;
+    color: #5e2ced;
+}
+
+.new_footer_top .f_social_icon .a1:hover {
+    background: #5e2ced;
+    border-color: #5e2ced;
+  color:white;
+}
+.new_footer_top .f_social_icon .a1 + .a1 {
+    margin-left: 4px;
+}
+.new_footer_top .f-title {
+    margin-bottom: 30px;
+    color: #263b5e;
+}
+.f_600 {
+    font-weight: 600;
+}
+.f_size_18 {
+    font-size: 18px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #4b505e;
+}
+.new_footer_top .f_widget.about-widget .f_list li .a1 {
+    color: #6a7695;
+}
+
+
+.new_footer_top .footer_bg {
+    position: absolute;
+    bottom: 0;
+    background: url("http://droitthemes.com/html/saasland/img/seo/footer_bg.png") no-repeat scroll center 0;
+    width: 100%;
+    height: 266px;
+}
+
+.new_footer_top .footer_bg .footer_bg_one {
+    background: url("https://1.bp.blogspot.com/-mvKUJFGEc-k/XclCOUSvCnI/AAAAAAAAUAE/jnBSf6Fe5_8tjjlKrunLBXwceSNvPcp3wCLcBGAsYHQ/s1600/volks.gif") no-repeat center center;
+    width: 330px;
+    height: 105px;
+  background-size:100%;
+    position: absolute;
+    bottom: 0;
+    left: 30%;
+    -webkit-animation: myfirst 22s linear infinite;
+    animation: myfirst 22s linear infinite;
+}
+
+.new_footer_top .footer_bg .footer_bg_two {
+    background: url("https://1.bp.blogspot.com/-hjgfxUW1o1g/Xck--XOdlxI/AAAAAAAAT_4/JWYFJl83usgRFMvRfoKkSDGd--_Sv04UQCLcBGAsYHQ/s1600/cyclist.gif") no-repeat center center;
+    width: 88px;
+    height: 100px;
+  background-size:100%;
+    bottom: 0;
+    left: 38%;
+    position: absolute;
+    -webkit-animation: myfirst 30s linear infinite;
+    animation: myfirst 30s linear infinite;
+}
+
+
+
+@-moz-keyframes myfirst {
+  0% {
+    left: -25%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+@-webkit-keyframes myfirst {
+  0% {
+    left: -25%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+
+@keyframes myfirst {
+  0% {
+    left: -25%;
+  }
+  100% {
+    left: 100%;
+  }
+}
+.col-lg-3{
+	margin-left: 90px;
+}
